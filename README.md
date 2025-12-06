@@ -30,7 +30,7 @@ Software Engineer
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
   </a>
 
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/iblamebranny?igsh=MWN5d3ZteWFuaTZuZA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
 
