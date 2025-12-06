@@ -12,7 +12,6 @@ Software Engineer
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://abcd.com)
 * ✉️  You can contact me at [swanhtetag09@gmail.com](mailto:swanhtetag09@gmail.com)
-* 🚀  I'm currently working on [AU Connect](http://abcd.com)
 * 💬  I'm secretly batman......but don't tell anyone.
 
 
