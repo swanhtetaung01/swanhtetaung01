@@ -10,7 +10,7 @@ Software Engineer
 ###
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [MyPortfolio]((https://swanhtetaung-portfolio.netlify.app/))
+* 🖥️  See my portfolio at [MyPortfolio](https://swanhtetaung-portfolio.netlify.app/)
 * 💬  I'm secretly batman......but don't tell anyone.
 
 <div> --- </div>
