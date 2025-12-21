@@ -5,7 +5,7 @@ Software Engineer
 ----------------- 
 ###
 
-<img align="right" align="top" height="150" src="https://wallpapers.com/images/hd/wow-4k-wallpaper-yw6r1m6fepr8mydn.jpg"  />
+<img align="right" height="150" src="https://wallpapers.com/images/hd/wow-4k-wallpaper-yw6r1m6fepr8mydn.jpg" />
 
 ###
 
