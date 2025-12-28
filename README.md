@@ -11,6 +11,7 @@ Software Engineer
 ###
 
 * 🌍  I'm based in Thailand
+- Majored in Computer Engineering.
 - 🔭 I’m currently working on [AU Connect](https://abcd.com)
 
 
