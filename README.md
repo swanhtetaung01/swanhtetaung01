@@ -25,7 +25,7 @@ Software Engineer
 <a href="https://github.com/swanhtetaung01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/iblamebranny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> -->
-<!-- <h3 align="left">Connect with me:</h3> -->
+
 <p align="left">
 <a href="https://www.linkedin.com/in/swan-htet-aung09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="swanhtetaung09" height="30" width="40" /></a><a href="https://fb.com/Swan Htet Aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Swan Htet Aung" height="30" width="40" /></a><a href="https://instagram.com/iblamebranny" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="iblamebranny" height="30" width="40" /></a></p>
 
