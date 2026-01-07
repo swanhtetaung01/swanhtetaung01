@@ -5,8 +5,6 @@ Software Engineer
 ----------------- 
 ###
 
-
-
 <!-- <img align="right" height="150" src="https://wallpapers.com/images/hd/wow-4k-wallpaper-yw6r1m6fepr8mydn.jpg" /> -->
 <img align="right" height="220" src="https://th.bing.com/th/id/R.d4b9ca6d67048242aa480919aecf3375?rik=%2f9lGF5E7uhJl6A&riu=http%3a%2f%2fgreetings-day.com%2fwp-content%2fuploads%2f2015%2f12%2fMerry_Xmas_GIF.gif&ehk=HPJtw74hyUMi66XSTpeQU1Go8T8gvcSlQZUAfSAZ7UE%3d&risl=&pid=ImgRaw&r=0" />
 
@@ -19,9 +17,6 @@ Software Engineer
 - 🔭 I’m currently working on [AU Connect](https://github.com/swanhtetaung01/AU_Connect.git)
   
 - 👨‍💻 All of my projects are available at <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
-
-
-
 
 
 <p align="left">
