@@ -14,8 +14,6 @@ Junior Fullstack Developer
  
 - 🎓 **Major:** Computer Engineering
   
-- 🔭 I’m currently working on [AU Connect](https://github.com/swanhtetaung01/AU_Connect.git)
-  
 - 👨‍💻 All of my projects are available at <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
 
 
