@@ -16,6 +16,8 @@ Junior Fullstack Developer
   
 - 👨‍💻 All of my projects are available at <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
 
+ - <span>📩 Send me an email <a>swanhtetag09@gmail.com</a></span>
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/swan-htet-aung09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="swanhtetaung09" height="30" width="40" /></a><a href="https://fb.com/Swan Htet Aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Swan Htet Aung" height="30" width="40" /></a><a href="https://instagram.com/iblamebranny" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="iblamebranny" height="30" width="40" /></a></p>
