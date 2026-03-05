@@ -16,7 +16,7 @@ Software Engineer
  
 - 🎓 **Major:** Computer Engineering
   
-- 👨‍💻 All of my projects are available at <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
+- 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
 
  - <span>📩 Send me an email <a>swanhtetag09@gmail.com</a></span>
 
