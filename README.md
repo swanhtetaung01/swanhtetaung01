@@ -58,9 +58,9 @@ Software Engineer
 <div align="center">
 <a href="https://github.com/swanhtetaung01">
 <!-- <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swanhtetaung01&theme=2077" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanhtetaung01&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanhtetaung01&theme=2077" height="150em" />
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swanhtetaung01&theme=2077" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanhtetaung01&theme=2077" height="180em" width="500em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanhtetaung01&theme=2077" width="500em"/>
 </div>
 
 
