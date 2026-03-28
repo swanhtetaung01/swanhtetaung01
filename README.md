@@ -1,7 +1,7 @@
 Swan Htet Aung
 =======================================================================================================================================
 
-Software Engineer
+Software Developer
 ----------------- 
 ###
 
@@ -10,11 +10,11 @@ Software Engineer
 
 <!-- <img align="right" height="220" src="" /> -->
 
-###
-  
-- 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
+<p>Backend developer specializing in Java and Spring Boot, with experience building scalable RESTful APIs and implementing secure authentication using JWT and Spring Security. Passionate about clean architecture, database design, and continuously learning new technologies to build reliable backend systems.</p>
 
- - <span>📩 Send me an email <a>swanhtetag09@gmail.com</a></span>
+###
+ - 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
+ -  <span>📩 Send me an email <a>swanhtetag09@gmail.com</a></span>
 
 
 <p align="left">
