@@ -1,7 +1,7 @@
 Swan Htet Aung
 =======================================================================================================================================
 
-Software Developer
+Software Engineer
 ----------------- 
 ###
 
@@ -10,7 +10,11 @@ Software Developer
 
 <!-- <img align="right" height="220" src="" /> -->
 
-<p>Backend developer specializing in Java and Spring Boot, with experience building scalable RESTful APIs and implementing secure authentication using JWT and Spring Security. Passionate about clean architecture, database design, and continuously learning new technologies to build reliable backend systems.</p>
+<p>I'm a Computer Engineering graduate and aspiring Software Engineer focused on backend and full-stack development. I enjoy building RESTful APIs, database-driven applications, and clean web interfaces using Java, Spring Boot, React, Next.js, TypeScript, and PostgreSQL.</p>
+
+<p>My main interests are backend architecture, authentication, database design, API development, and AI-assisted software engineering. I have built projects involving e-commerce systems, AI web applications, and developer tools, and I am currently looking for opportunities as a Junior Software Engineer or Backend Developer.</p>
+
+<p>I am always learning, improving my code quality, and building projects that solve real problems.</p>
 
 ###
  - 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
