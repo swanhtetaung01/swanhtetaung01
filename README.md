@@ -23,7 +23,7 @@ Also built [findmyrobo.com](https://www.findmyrobo.com) and
 Computer Engineering, Assumption University of Thailand.
 
 ###
- - 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
+ - 👨‍💻 <a href="https://swanhtetaung-porfolio.vercel.app/">MyPortfolio</a>.
  -  <span>📩 Send me an email <a>swanhtetag09@gmail.com</a></span>
 
 
