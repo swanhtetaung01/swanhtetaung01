@@ -1,4 +1,4 @@
-Swan Htet Aung
+Swan Htet Aung — Branny
 =======================================================================================================================================
 
 Software Engineer
@@ -10,11 +10,17 @@ Software Engineer
 
 <!-- <img align="right" height="220" src="" /> -->
 
-<p>I'm a Computer Engineering graduate and aspiring Software Engineer focused on backend and full-stack development. I enjoy building RESTful APIs, database-driven applications, and clean web interfaces using Java, Spring Boot, React, Next.js, TypeScript, and PostgreSQL.</p>
+Software engineer at **RAASPAL** in Bangkok, building the internal platform behind
+our commercial robot fleet — AI-assisted proposal generation, fleet telemetry, and
+automated customer reporting. Spring Boot underneath, Next.js on top, Thai and
+English throughout.
 
-<p>My main interests are backend architecture, authentication, database design, API development, and AI-assisted software engineering. I have built projects involving e-commerce systems, AI web applications, and developer tools, and I am currently looking for opportunities as a Junior Software Engineer or Backend Developer.</p>
+Also built [findmyrobo.com](https://www.findmyrobo.com) and
+[airoboticsth.com](https://airoboticsth.com).
 
-<p>I am always learning, improving my code quality, and building projects that solve real problems.</p>
+**Java · TypeScript · Spring Boot · Next.js · PostgreSQL · Docker · AWS**
+
+Computer Engineering, Assumption University of Thailand.
 
 ###
  - 👨‍💻 <a href="https://swanhtetaung-portfolio.netlify.app/">MyPortfolio</a>.
